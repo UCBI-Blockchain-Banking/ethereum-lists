@@ -1,0 +1,27 @@
+{
+  "symbol": "UCBI",
+  "name": "UCBI Banking",
+  "type": "ERC20",
+  "address": "0x2adba23Cf1252dE095aCEd801e758b369EC10426",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "",
+  "logo": { "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/4780.png", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "contact@ucbibanking.io", "url": "https://ucbibanking.io" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/23711703",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/UCBI_Banking",
+    "twitter": "https://x.com/UCBI_Banking",
+    "youtube": "https://www.youtube.com/@UCBI_Banking"
+  }
+}
